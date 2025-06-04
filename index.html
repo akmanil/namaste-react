@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Import react using CDN</title>
+     <link rel="stylesheet" href="index.css">
+    <style></style>
+  </head>
+  <body>
+    <h1>Hello World</h1>
+    <div id="root"></div>
+    <script
+      crossorigin
+      src="https://unpkg.com/react@18/umd/react.development.js"
+    ></script>
+    <script
+      crossorigin
+      src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"
+    ></script>
+        
+    <script>
+       const heading = React.createElement("h1" , {className: "prop"} , "Hello Anil");
+//        const heading = React.createElement(
+//   "h1", 
+//   { 
+//     style: { 
+//       color: "red",
+//       backgroundColor: "yellow",     // we are also used that code
+//       fontSize: "24px",
+//       padding: "10px"
+//     } 
+//   }, 
+//   "Hello Anil"
+// );
+       //createRoot() is a React 18+ method that creates a root for your React application
+       const root = ReactDOM.createRoot(document.getElementById("root"));
+       // for render use root.render()
+       root.render(heading)
+    </script>
+  </body>
+</html>
+
+
+<!-- this is the custom hook -->
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Custom Root API</title>
+</head>
+<body>
+  <div id="root"></div>
+
+  <script>
+    // Our custom createRoot implementation
+    function createRoot(container) {
+      return {
+        _container: container,
+        
+        // Simple render method
+        render: function(element) {
+          // Clear the container
+          this._container.innerHTML = '';
+          
+          // Append the new element
+          if (element instanceof HTMLElement) {
+            this._container.appendChild(element);
+          } else if (typeof element === 'string') {
+            this._container.textContent = element;
+          }
+        },
+        
+        // More methods could be added here
+        unmount: function() {
+          this._container.innerHTML = '';
+        }
+      };
+    }
+
+    // Usage example
+    const myRoot = createRoot(document.getElementById('root'));
+    
+    // Create a simple element
+    const heading = document.createElement('h1');
+    heading.textContent = 'Hello from custom root!';
+    
+    // Render it
+    myRoot.render(heading);
+    
+    // Update after 2 seconds
+    setTimeout(() => {
+      myRoot.render('Updated content!');
+    }, 2000);
+  </script>
+</body>
+</html> -->
