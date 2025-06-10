@@ -1,11 +1,4 @@
-3598
-122C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\caniuse-lite\data\features\xhtml.js133936873301849256 0
-126C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@swc\helpers\_\_class_private_field_set133936873255062983 1
-137C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@parcel\core\test\PublicMutableBundleGraph.test.js133936873299046045 0
-118C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\caniuse-lite\data\regions\IT.js133936873270233222 0
-86C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\package.json133936879955058942 0
-133C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\caniuse-lite\data\features\font-size-adjust.js133936873266199937 0
-112C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\node-addon-api\napi-inl.h133936873152387742 0
+3601
 118C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\caniuse-lite\data\regions\SZ.js133936873283896586 0
 97C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\is-extglob133936873133516719 1
 107C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\msgpackr-extract\src133936873138238822 1
@@ -16,7 +9,7 @@
 125C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\caniuse-lite\data\features\css-sel3.js133936873255052961 0
 128C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@parcel\reporter-dev-server\src\Server.js133936873258574735 0
 121C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\type-fest\ts41\delimiter-case.d.ts133936873146657402 0
-78C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\dist133936881344916617 1
+78C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\dist133940210461373910 1
 98C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\safe-buffer133936873134377215 1
 128C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\lmdb\node_modules\node-addon-api\index.js133936873151325695 0
 152C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@swc\helpers\src\_class_check_private_static_field_descriptor.mjs133936873262371692 0
@@ -24,7 +17,16 @@
 116C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\weak-lru-cache\LRFUExpirer.js133936873145308275 0
 137C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\caniuse-lite\data\features\spellcheck-attribute.js133936873281616485 0
 140C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@swc\helpers\_\_async_generator_delegate\package.json133936873244013602 0
-80C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\app.js133936881337370228 0
+80C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\app.js133940209570363584 0
+125C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@parcel\transformer-babel\lib\utils.js133936873235189512 0
+97C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\base-x\src133936873196151654 1
+117C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@swc\helpers\_\_overload_yield133936873258754866 1
+146C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_load.1133936873175501413 0
+115C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@parcel\workers\package.json133936873235687719 0
+103C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\msgpackr-extract133936873145352125 1
+125C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@swc\helpers\cjs\_get_prototype_of.cjs133936873165494111 0
+81C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\home.js133940210458551770 0
+112C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\weak-lru-cache\index.d.ts133936873150094905 0
 127C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\caniuse-lite\data\features\decorators.js133936873258379134 0
 131C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@parcel\workers\src\threads\ThreadsWorker.js133936873230787468 0
 118C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\caniuse-lite\data\regions\AW.js133936873165660224 0
@@ -36,7 +38,8 @@
 106C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\get-port\index.d.ts133936873240029878 0
 138C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@parcel\error-overlay\src\components\CloseButton.js133936873155416974 0
 148C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\caniuse-lite\data\features\mdn-css-backdrop-pseudo-element.js133936873272592606 0
-84C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\index.html133936876721549025 0
+104C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\dist\namaste-react.8b276dbb.js133940210461056806 0
+84C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\index.html133940210272189639 0
 140C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@parcel\transformer-postcss\src\PostCSSTransformer.js133936873214309794 0
 110C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@parcel\workers\LICENSE133936873194517573 0
 109C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\picomatch\lib\parse.js133936873133956379 0
@@ -53,6 +56,13 @@
 137C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\caniuse-lite\data\features\css-element-function.js133936873212007398 0
 139C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@parcel\runtime-js\lib\helpers\worker\wasm-loader.js133936873245335206 0
 86C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules133936879954828203 1
+122C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\caniuse-lite\data\features\xhtml.js133936873301849256 0
+126C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@swc\helpers\_\_class_private_field_set133936873255062983 1
+137C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@parcel\core\test\PublicMutableBundleGraph.test.js133936873299046045 0
+118C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\caniuse-lite\data\regions\IT.js133936873270233222 0
+86C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\package.json133936879955058942 0
+133C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\caniuse-lite\data\features\font-size-adjust.js133936873266199937 0
+112C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\node-addon-api\napi-inl.h133936873152387742 0
 135C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@parcel\transformer-babel\src\babelErrorUtils.js133936873228499572 0
 132C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@parcel\transformer-svg\src\SVGTransformer.js133936873210026566 0
 106C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\detect-libc\LICENSE133936873133810254 0
@@ -117,7 +127,6 @@
 130C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\caniuse-lite\data\features\localecompare.js133936873272012448 0
 100C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\clone\LICENSE133936873176779042 0
 96C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\react-dom133936879954671058 1
-101C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\supports-color133936873134101562 1
 98C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\ansi-styles133936873134071550 1
 110C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\color-convert\README.md133936873138413312 0
 118C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\caniuse-lite\data\regions\CV.js133936873257085808 0
@@ -238,12 +247,6 @@
 91C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\lmdb133936873255166731 1
 118C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\caniuse-lite\data\regions\MU.js133936873273854388 0
 95C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\msgpackr133936873223830437 1
-125C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@parcel\transformer-babel\lib\utils.js133936873235189512 0
-97C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\base-x\src133936873196151654 1
-117C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@swc\helpers\_\_overload_yield133936873258754866 1
-146C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_load.1133936873175501413 0
-115C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@parcel\workers\package.json133936873235687719 0
-103C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\msgpackr-extract133936873145352125 1
 125C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@parcel\watcher-win32-x64\watcher.node133936873172408752 0
 136C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest4.c133936873207661883 0
 101C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\node-addon-api133936873158561140 1
@@ -290,6 +293,7 @@
 108C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@parcel\profiler\test133936873201116375 1
 114C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\supports-color\package.json133936873133586861 0
 93C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\semver133936873196821366 1
+101C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\supports-color133936873134101562 1
 126C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@parcel\core\lib\ParcelConfig.schema.js133936873296830106 0
 131C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\react\cjs\react-jsx-dev-runtime.profiling.js133936879951444020 0
 134C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@swc\helpers\cjs\_class_private_method_init.cjs133936873160357859 0
@@ -329,8 +333,6 @@
 135C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@parcel\runtime-js\lib\helpers\node\js-loader.js133936873237514010 0
 125C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@swc\helpers\cjs\_array_with_holes.cjs133936873150135723 0
 106C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\weak-lru-cache\dist133936873140072554 1
-125C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@swc\helpers\cjs\_get_prototype_of.cjs133936873165494111 0
-112C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\weak-lru-cache\index.d.ts133936873150094905 0
 118C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\caniuse-lite\data\regions\BG.js133936873168546630 0
 130C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\caniuse-lite\data\features\selection-api.js133936873280783623 0
 110C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\weak-lru-cache\index.js133936873143988909 0
@@ -407,7 +409,6 @@
 114C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@parcel\transformer-svg\lib133936873209855307 1
 107C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\picocolors\README.md133936873134337167 0
 121C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\utility-types\dist\mapped-types.js133936873144589552 0
-109C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\msgpackr\node-index.js133936873178444480 0
 125C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\utility-types\dist\mapped-types.js.map133936873149981261 0
 118C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\caniuse-lite\data\regions\TC.js133936873283966379 0
 123C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@parcel\source-map\dist\node.js.flow133936873195870739 0
@@ -1236,6 +1237,7 @@
 158C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages.ps1133936873719882839 0
 118C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\caniuse-lite\data\regions\SL.js133936873281271307 0
 129C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\msgpackr-extract\bin\download-prebuilds.js133936873141978130 0
+109C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\msgpackr\node-index.js133936873178444480 0
 106C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\msgpackr\pack.d.cts133936873167404160 0
 104C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\lmdb\src\misc.cpp133936873230309435 0
 103C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\msgpackr\pack.js133936873179211681 0
@@ -1745,11 +1747,11 @@
 135C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\caniuse-lite\data\features\orientation-sensor.js133936873275294947 0
 118C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\caniuse-lite\data\regions\AE.js133936873150847099 0
 132C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\caniuse-lite\data\features\css-text-indent.js133936873255499650 0
-118C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\caniuse-lite\data\regions\AI.js133936873154987409 0
-117C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@swc\helpers\src\_identity.mjs133936873264284962 0
 115C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@parcel\profiler\build-ts.js133936873196245101 0
 122C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@parcel\types-internal\src\Cache.js133936873169310256 0
 111C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@swc\helpers\_\_to_array133936873259572279 1
+117C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@swc\helpers\src\_identity.mjs133936873264284962 0
+118C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\caniuse-lite\data\regions\AI.js133936873154987409 0
 112C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@parcel\packager-html\lib133936873242357840 1
 122C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\caniuse-lite\data\regions\alt-an.js133936873156034518 0
 122C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\caniuse-lite\data\regions\alt-na.js133936873157636132 0
@@ -2136,7 +2138,7 @@
 131C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\caniuse-lite\data\features\css-namespaces.js133936873243213950 0
 116C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@parcel\fs\lib\browser.js.map133936873265553216 0
 119C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@swc\helpers\_\_get\package.json133936873256582844 0
-104C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\dist\namaste-react.f72d0d54.js133936881344112092 0
+104C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\dist\namaste-react.f72d0d54.js133940209572995958 0
 133C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\caniuse-lite\data\features\css-not-sel-list.js133936873243694389 0
 133C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\caniuse-lite\data\features\css-nth-child-of.js133936873244115228 0
 112C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@swc\helpers\src\_jsx.mjs133936873264663427 0
@@ -3020,6 +3022,7 @@
 123C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@parcel\watcher\src\watchman\BSER.hh133936873160111375 0
 157C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\package.json133936873303791251 0
 122C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@parcel\watcher\src\watchman\IPC.hh133936873161540718 0
+108C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\dist\namaste-react.8b276dbb.js.map133940210461351662 0
 114C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@parcel\events\src\index.js133936873270171799 0
 134C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@parcel\watcher\src\watchman\WatchmanBackend.cc133936873158211971 0
 134C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\@parcel\watcher\src\watchman\WatchmanBackend.hh133936873162831675 0
@@ -3593,7 +3596,7 @@
 133C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\.bin\node-gyp-build-optional-packages-test.ps1133936873719607835 0
 128C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\.bin\node-gyp-build-optional-packages.cmd133936873719597827 0
 128C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\node_modules\.bin\node-gyp-build-optional-packages.ps1133936873719597827 0
-89C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\dist\index.html133936881344183020 0
-105C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\dist\namaste-react.9e4c6fd2.css133936881344112092 0
-109C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\dist\namaste-react.9e4c6fd2.css.map133936881344335137 0
-108C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\dist\namaste-react.f72d0d54.js.map133936881344630061 0
+89C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\dist\index.html133940210274624936 0
+105C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\dist\namaste-react.9e4c6fd2.css133940208997258972 0
+109C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\dist\namaste-react.9e4c6fd2.css.map133940208997331329 0
+108C:\Users\Anil\OneDrive\Desktop\codes\react.js\namaste react\namaste-react\dist\namaste-react.f72d0d54.js.map133940209573506537 0

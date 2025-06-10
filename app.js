@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 
 
-document.getElementById("root").innerHTML="Hello React"
+// document.getElementById("root").innerHTML="Hello React"
        const heading = React.createElement("h1" , {className: "prop"} , "Hello Anil");
 //        const heading = React.createElement(
 //   "h1", 
